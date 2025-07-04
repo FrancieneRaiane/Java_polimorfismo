@@ -11,7 +11,7 @@ public class Principal {
 		
 		System.out.println("__________________________________");
 		
-		ovelha.emirirSom();
+		ovelha.emitirSom();
 		ovelha.dormir();
 		ovelha.produzirLa();
 	}

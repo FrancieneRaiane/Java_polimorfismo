@@ -1,7 +1,7 @@
 package app;
 
 
-public class Porco extends Animal{
+public class Porco extends animal{
 	public Porco(String nome) {
 		super(nome);
 	}

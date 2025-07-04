@@ -1,12 +1,12 @@
 package app;
 
 
-public class Ovelha extends Animal {
+public class Ovelha extends animal {
 	public Ovelha(String nome) {
 		super(nome);
 	}
 @Override
-public void emirirSom() {
+public void emitirSom() {
 	System.out.println(nome + " diz: Mee");
 }
 public void produzirLa() {
